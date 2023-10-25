@@ -13,5 +13,8 @@
     The server runs at localhost on port 3000. You can curl it and see the results at http://localhost:3000/messages
   
   </ol>
+  <br>
+  Make sure to use your password in app.js file or use this command in your SQL query.
+  <pre>ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';</pre>
   
 </p>
